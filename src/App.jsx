@@ -95,7 +95,7 @@ function App() {
             </h1>
           </div>
           <p className="text-center text-gray-300 text-lg">
-            Tell us what you're looking for in English or Hindi (हिंदी), and AI will find the perfect phone for you!
+            Tell us what you're looking , and AI will find the perfect phone for you!
           </p>
         </div>
       </header>

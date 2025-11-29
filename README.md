@@ -4,12 +4,12 @@ A modern React application that uses Google Gemini AI to recommend phones based 
 
 ## ✨ Features
 
-- 🤖 **AI-Powered Recommendations** - Uses Gemini 1.5 Flash API to analyze user preferences
-- 🎨 **Beautiful Dark Theme UI** - Modern, responsive design with smooth animations
-- 📊 **Product Cards** - Display phones with images, specs, ratings, and prices
-- 🔍 **Smart Search** - Natural language input for phone preferences
-- ⚡ **Fast & Responsive** - Built with Vite for optimal performance
-- 🎯 **Error Handling** - Comprehensive error handling with toast notifications
+-  **AI-Powered Recommendations** - Uses Gemini 1.5 Flash API to analyze user preferences
+-  **Beautiful Dark Theme UI** - Modern, responsive design with smooth animations
+-  **Product Cards** - Display phones with images, specs, ratings, and prices
+-  **Smart Search** - Natural language input for phone preferences
+-  **Fast & Responsive** - Built with Vite for optimal performance
+-  **Error Handling** - Comprehensive error handling with toast notifications
 
 ## 🚀 Quick Start
 
@@ -164,13 +164,6 @@ Animations are defined in `tailwind.config.js` under the `extend.animation` sect
 
 This project is open source and available for personal and educational use.
 
-## 🙏 Acknowledgments
-
-- Google Gemini API for AI capabilities
-- Unsplash for placeholder images
-- Vite team for the amazing build tool
-
----
 
 Made with ❤️ using React and AI
 

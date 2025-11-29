@@ -25,7 +25,7 @@ const SearchBar = ({ onSearch, isLoading }) => {
           type="text"
           value={preference}
           onChange={(e) => setPreference(e.target.value)}
-          placeholder="Tell your preference in English or Hindi (हिंदी): e.g., phone under Rs. 50000 with good camera or ₹50000 से कम अच्छा कैमरा वाला फोन"
+          placeholder="Tell your preference : e.g., phone under Rs. 50000 with good camera "
           className="flex-1 px-6 py-4 bg-gray-800 border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 transition-all duration-300"
           disabled={isLoading}
         />
