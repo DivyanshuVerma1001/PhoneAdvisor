@@ -6,7 +6,7 @@ import { GoogleGenAI } from "@google/genai";
 
 // Initialize the client with API key (hardcoded as per requirements)
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyCAFd9zKk6SsGjhTyyVsx0CaHeKHk16uwk",
+  apiKey: import.meta.env.VITE_GOOGLE_API_KEY,
 });
 
 /**
